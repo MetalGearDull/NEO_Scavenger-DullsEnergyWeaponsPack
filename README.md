@@ -22,16 +22,20 @@ This mod is not compatible with other popular mods at this time.
 
 ## Planned Additions
 
+**Laser Weapons**
 - Laser Pistol(s)
 - Additional Laser Rifle(s)
 - Laser Shotgun(s)
 
+**Plasma Weapons**
 - Plasma Pistol(s)
 - Plasma Rifle(s)
 - Plasma Shotgun(s)
 
-- Flamethrower
+**Other Energy Weapons**
+- Flamethrower(s)
 
+**Misc**
 - Recipes using these weapons and/or their ammunition
 
 - Installations that merge this mod with other popular mods 
