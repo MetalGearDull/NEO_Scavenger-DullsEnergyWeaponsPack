@@ -1,6 +1,6 @@
 # NEO Scavenger - DullsEnergyWeapons
 
-This mod aims to add energy weapons into NEO Scavenger. This mod should be compatible on Linux, Windows, and Mac.
+This mod aims to add energy weapons into NEO Scavenger. This mod is compatible on Linux, Windows, and Mac.
 This mod is not compatible with other popular mods at this time.
 
 ---
