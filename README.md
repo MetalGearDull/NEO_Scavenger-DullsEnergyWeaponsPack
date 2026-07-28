@@ -3,6 +3,8 @@
 This mod aims to add energy weapons into NEO Scavenger. This mod should be compatible on Linux, Windows, and Mac.
 This mod is not compatible with other popular mods at this time.
 
+---
+
 ## Installation Instructions
 
 1. Download the mod as a ZIP file.
@@ -15,6 +17,8 @@ This mod is not compatible with other popular mods at this time.
 ## Features
 
 - Adds in an identical copy the unused "Deltec LAR-10 laser rifle" to the starting loot of the Gyges Cryo Facility.
+
+---
 
 ## Planned Additions
 
