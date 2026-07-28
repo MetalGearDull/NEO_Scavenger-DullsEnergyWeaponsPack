@@ -35,11 +35,14 @@ This mod is not compatible with other popular mods at this time.
 **Other Energy Weapons**
 - Flamethrower(s)
 
-
+**Recipes**
+- Create campfires and torches using laser, plasma, and other energy weapons.
+- Disassemble energy weapons into components.
 
 **Misc**
-- Recipes using these weapons and/or their ammunition
+- Allow these new items to spawn at appropriate locations, and be potential loot.
 
+**Other**
 - Installations that merge this mod with other popular mods 
 
 ---
