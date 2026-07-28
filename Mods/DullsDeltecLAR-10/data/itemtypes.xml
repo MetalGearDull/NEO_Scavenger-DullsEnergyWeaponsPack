@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+- phpMyAdmin XML Dump
+- version 3.4.0
+- http://www.phpmyadmin.net
+-
+- Host: localhost
+- Generation Time: Jun 04, 2014 at 02:16 PM
+- Server version: 5.6.16
+- PHP Version: 5.2.17
+-->
+
+<pma_xml_export version="1.0">
+    <!--
+    - Database: 'neogame'
+    -->
+    <database name="neogame">
+        <!-- Table itemtypes -->
+        <table name="itemtypes">
+            <column name="id">1</column>
+            <column name="nGroupID">2</column>
+            <column name="nSubgroupID">0</column>
+            <column name="strName">rifle</column>
+            <column name="strDesc">high-tech rifle</column>
+            <column name="strDescAlt">Dull's Deltec LAR-10 Laser Rifle</column>
+            <column name="nCondID">0:87</column>
+            <column name="vImageList">0:ItmLaserRifle.png,0:ItmLaserRifleStored.png,0:ItmLaserRifleHeld.png</column>
+            <column name="vSpriteList">14=0:CreItmHuntingRifleShoulderR.png,20=0:CreItmHuntingRifleHeldL.png,21=0:CreItmHuntingRifleHeldR.png</column>
+            <column name="vImageUsage">1,1,0,0,2,2</column>
+            <column name="fWeight">3.6</column>
+            <column name="fMonetaryValue">1800</column>
+            <column name="fMonetaryValueAlt">1800</column>
+            <column name="fDurability">1</column>
+            <column name="fDegradePerHour">0</column>
+            <column name="fEquipDegradePerHour">0.001</column>
+            <column name="fDegradePerUse">0.01</column>
+            <column name="vDegradeTreasureIDs">0:35,0:35</column>
+            <column name="aEquipConditions"></column>
+            <column name="aPossessConditions"></column>
+            <column name="aUseConditions"></column>
+            <column name="aCapacities">2x2</column>
+            <column name="vEquipSlots">14=0=0,21=2=2,20=2=2</column>
+            <column name="vUseSlots"></column>
+            <column name="bSocketLocked">0</column>
+            <column name="vProperties">0:2,0:9,0:10,0:17,0:28,0:32,0:48,0:50,0:75,0:87</column>
+            <column name="aContentIDs">0:9</column>
+            <column name="nFormatID">0:3</column>
+            <column name="nTreasureID">0:37</column>
+            <column name="nComponentID">0:3</column>
+            <column name="bMirrored">0</column>
+            <column name="nSlotDepth">0</column>
+            <column name="strChargeProfiles"></column>
+            <column name="aAttackModes">20=0:13,21=0:13,20=0:14,21=0:14</column>
+            <column name="nStackLimit">1</column>
+            <column name="aSwitchIDs"></column>
+            <column name="aSounds">0:cueRiflePickup,0:cueRifleScope1Putdown</column>
+        </table>
+    </database>
+</pma_xml_export>
